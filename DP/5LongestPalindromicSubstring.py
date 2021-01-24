@@ -28,7 +28,7 @@ class Solution(object):
         return result
 
 
-inputvalue = "abcda"
+inputvalue = "abada"
 s = Solution()
 t = s.longestPalindrome(inputvalue)
 print(t)
